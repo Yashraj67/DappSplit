@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254422680826",
+    "project_id": "dappsplit",
+    "storage_bucket": "dappsplit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254422680826:android:62627e55c43c34341cf543",
+        "android_client_info": {
+          "package_name": "com.example.dappsplit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqvAFz9XlMlZvGYBG9cua-yDfjKmEUIbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
